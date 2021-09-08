@@ -1,7 +1,7 @@
 ### Hello!! I'm Renan Gustavo
 
 - 🔭 I’m currently working on front-end
-- 🌱 I’m currently learning react/typescript
+- 🌱 I’m currently learning react, typescript e nextjs
 
 <div>
   <a href="https://github.com/Renan-Gust">
