@@ -1,8 +1,5 @@
 ### Hello!! I'm Renan Gustavo
 
-- 🔭 I’m currently working on front-end
-- 🌱 I’m currently learning react, typescript e nextjs
-
 <div>
   <a href="https://github.com/Renan-Gust">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Renan-Gust&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
