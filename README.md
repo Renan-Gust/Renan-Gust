@@ -1,7 +1,7 @@
 ### Hello!! I'm Renan Gustavo
 
 <div>
-  [Acesse meu portfolio]([https://google.com.br](https://renandesenvolvimento.vercel.app)
+  [Acesse meu portfolio](https://renandesenvolvimento.vercel.app)
 </div>
 
 <div>
