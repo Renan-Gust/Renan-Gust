@@ -10,5 +10,7 @@ Eu sou Renan Gustavo, um fullstack developer com maior experiência na stack Jav
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://portfolio-renan-gust.vercel.app)
 
 # 📊 GitHub Status:
+<div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Renan-Gust&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renan-Gust&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
