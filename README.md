@@ -1,5 +1,4 @@
 # Olá, eu sou o Renan Gustavo! 👋
-**Software Engineer Backend | Especialista em PHP & Laravel**
 Sou um desenvolvedor focado em construir soluções escaláveis e eficientes. Minha experiência transita entre o desenvolvimento de sistemas robustos em PHP (Laravel) e a criação de automações inteligentes com Python. Sou entusiasta de arquiteturas de microsserviços e otimização de performance.
 
 ### 💻 Stacks
